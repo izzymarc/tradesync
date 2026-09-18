@@ -1,0 +1,2 @@
+# tradesync
+AI Trading
